@@ -4,7 +4,7 @@ This information was pulled from the official website (<https://www.clickmonitor
 Downloads can be found in [files](/files).  
 
 > [!IMPORTANT]
-> This is only an archive. 
+> This is only an archive.  
 > Bugs will not be fixed and feature requests will not be implemented.
 
 Information
