@@ -2,8 +2,10 @@
 This information was pulled from the official website (<https://www.clickmonitorddc.bplaced.net/>) before it went down. Saved here for reference.
 
 Downloads can be found in [files](/files).  
-This is only an archive. No new updates will be made to the ClickMonitorDDC.  
-Please refrain from making new feature requests.  
+
+> [!IMPORTANT]
+> This is only an archive. 
+> Bugs will not be fixed and feature requests will not be implemented.
 
 Information
 ---
